@@ -3,13 +3,9 @@
 %               Project 4 : mobile robot (cont'd)
 %               question h and i
 %   created by...
-%               Abraham San Jose III
-%               Ashleen Bains
-%               Eugene Bodnarchuk     
+
 %               Gwang Sik Kim
-%               Joshua Selikem
-%               Noel Steves 
-%               Thutazaw
+
 
 %   Created Date : May 28, 2021
 %   Revised      : May 28, 2021
