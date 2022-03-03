@@ -4,10 +4,8 @@
 % we can use approximated slope for the tangent line
 
 % Course Name  : MATH 2342
-% Team Members : Ashleen Bains
 %                Gwang Sik Kim
-%                Joshua Selikem
-%                Noel Steves
+
 
 % Created Date : Feb 20, 2021
 
