@@ -1,9 +1,7 @@
 %Course Name: MATH 2342 			    Due Date: Friday Feb. 26, 2021 at 11:59pm
-%Team member (Alphabetical order): 
-%Ashleen Bains
+
 %Gwang Sik Kim
-%Joshua Selikem
-%Noel Steves 
+
 
 %Global Variables and Function Initiation
 function [y]= newtonsRootFinder(funct,dfunct,initialguess,accuracy)
