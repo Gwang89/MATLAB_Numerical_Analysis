@@ -3,11 +3,9 @@
 %               Project 3 : mobile robot 
 %               question  d midpoint
 %   created by...
-%               Ashleen Bains
-%               Eugene Bodnarchuk
+
 %               Gwang Sik Kim
-%               Joshua Selikem
-%               Noel Steves 
+
 
 %   Created Date : April 27, 2021
 %   Revised      : May 1, 2021
