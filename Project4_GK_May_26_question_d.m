@@ -3,13 +3,7 @@
 %               Project 4 : mobile robot (cont'd)
 %               question d
 %   created by...
-%               Abraham San Jose III
-%               Ashleen Bains
-%               Eugene Bodnarchuk     
 %               Gwang Sik Kim
-%               Joshua Selikem
-%               Noel Steves 
-%               Thutazaw
 
 %   Created Date : May 26, 2021
 %   Revised      : May 26, 2021
